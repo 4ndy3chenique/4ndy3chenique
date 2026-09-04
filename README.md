@@ -1,5 +1,7 @@
 <img width="1511" height="377" alt="Social Media - 2" src="https://github.com/user-attachments/assets/770882f2-3c3e-43ab-99ed-2f6d6fcd7ad1" />
+
 ## Hi, I'm Jhon
+
 ### Systems Engineering · Lima, PE
 
 I build software focused on user experience, API consumption, and data analysis.
