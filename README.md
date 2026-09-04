@@ -1,4 +1,4 @@
-<img width="1511" height="377" alt="Group 19 (1)" src="https://github.com/user-attachments/assets/4a943d94-1ac4-44bb-9caf-767094504de2" />
+<img width="1511" height="377" alt="Social Media - 2" src="https://github.com/user-attachments/assets/770882f2-3c3e-43ab-99ed-2f6d6fcd7ad1" />
 ## Hi, I'm Jhon
 ### Systems Engineering · Lima, PE
 
