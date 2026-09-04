@@ -1,6 +1,5 @@
-<img width="1511" height="377" alt="Group 19" src="https://github.com/user-attachments/assets/f7d15df7-58b0-4a7f-82e9-bb3eac0183d6" />
-# Hi, I'm Jhon
-
+<img width="1642" height="654" alt="Group 19 (1)" src="https://github.com/user-attachments/assets/4a943d94-1ac4-44bb-9caf-767094504de2" />
+### Hi, I'm Jhon
 ### Systems Engineering · Lima, PE
 
 I build software focused on user experience, API consumption, and data analysis.
