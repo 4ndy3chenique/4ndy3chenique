@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Jhon
+# Hi, I'm Jhon Echenique
 
 ### Systems Engineering · Lima, PE 🇵🇪
 
