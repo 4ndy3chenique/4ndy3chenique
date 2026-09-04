@@ -2,7 +2,8 @@
 
 # Hi, I'm Jhon Echenique
 
-### Systems Engineering · Lima, PE<img width="20" height="20" alt="peruGIFbyLatinoji" src="https://github.com/user-attachments/assets/ba8a9561-75f1-4f34-a0cc-779632e21b67" />
+### Systems Engineering · Lima, PE<img width="20" height="17" alt="Suggestion" src="https://github.com/user-attachments/assets/7bf52b6c-d405-4b17-88d0-a03334968750" />
+
 
 
 I build software focused on user experience, API consumption, and data analysis.
