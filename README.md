@@ -2,7 +2,7 @@
 
 # Hi, I'm Jhon Echenique
 
-### Systems Engineering · Lima, <img width="800" height="800" alt="Suggestion" src="https://github.com/user-attachments/assets/d75c5ff3-b6dd-4cbe-a93e-95819a40d28b" />
+### Systems Engineering · Lima, <img width="10" height="10" alt="Suggestion" src="https://github.com/user-attachments/assets/d75c5ff3-b6dd-4cbe-a93e-95819a40d28b" />
   <img width="22" height="17" alt="Suggestion" src="https://github.com/user-attachments/assets/7bf52b6c-d405-4b17-88d0-a03334968750" />
 
 
